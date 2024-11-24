@@ -61,7 +61,7 @@ This project is implemented in **C**, leveraging modular programming principles 
 
 3. After successful compilation, execute the program: ./lab3
    
-4.Follow the program's instructions to enter the names of the passwd and shadow files you wish to validate.
+ 4. Follow the program's instructions to enter the names of the passwd and shadow files you wish to validate.
 
 ## **Space and Time Complexity**
 
